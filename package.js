@@ -66,7 +66,7 @@ Package.onUse(function(api) {
     '.npm/package/node_modules/touchstonejs/less/utils.less',
     '.npm/package/node_modules/touchstonejs/less/variables.less'],'client', {isImport: true});
   api.addFiles('.npm/package/node_modules/react-container/less/component.less','client', {isImport: true});
-  api.addFiles('touchstone.import.less', 'client');
+  api.addFiles(['touchstone.import.less','demo.import.less'], 'client');
 
   api.export('Touchstone', 'client');
 });
