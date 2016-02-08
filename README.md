@@ -9,3 +9,7 @@ Wrapper for [TouchstoneJS](https://github.com/touchstonejs/touchstonejs) to use 
 Create a .less file anywhere in your project to be served to the client and add
 
 `@import "{veeramarni:touchstonejs}/touchstone.import.less";`
+
+Optinally you can import `demo.import.less` for quick demo
+
+`@import "{veeramarni:touchstonejs}/demo.import.less";`
