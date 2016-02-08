@@ -15,7 +15,7 @@ Optinally, you can import `demo.import.less` for quick demo
 `@import "{veeramarni:touchstonejs}/demo.import.less";`
 
 
-## Same example
+## Sample example
 `app.jsx`
 
 ```
