@@ -16,7 +16,8 @@ Optinally you can import `demo.import.less` for quick demo
 
 
 ## Same example
-`app.jsx'
+`app.jsx`
+
 ```
 const {
     Container,
