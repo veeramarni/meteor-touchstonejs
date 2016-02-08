@@ -2,7 +2,7 @@ Package.describe({
   name: 'veeramarni:touchstonejs',
   version: '0.7.3',
   summary: 'touchstonejs bundled with meteor',
-  git: '',
+  git: 'https://github.com/veeramarni/meteor-touchstonejs',
   documentation: 'README.md'
 });
 
